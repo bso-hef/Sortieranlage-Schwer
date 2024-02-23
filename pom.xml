@@ -18,7 +18,7 @@
 
     <properties>
         <!-- username without spaces       -->
-        <user.name>SCSE</user.name>
+        <user.name>EXT</user.name>
         <ev3.ip>10.49.134.223</ev3.ip>
         <project.classname>colorsorter.ElementSorter</project.classname>
 
