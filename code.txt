@@ -1,0 +1,15 @@
+moveSensorToElement
+openGrabber
+moveToBox1
+moveToBox3
+moveToBox2
+grabElement
+openGrabber
+moveGrabberToElement
+moveGrabberToElement
+openGrabber
+moveGrabberToElement
+moveSensorToElement
+moveSensorToElement
+grabElement
+grabElement

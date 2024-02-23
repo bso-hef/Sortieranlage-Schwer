@@ -19,11 +19,7 @@
     <properties>
         <!-- username without spaces       -->
         <user.name>SCSE</user.name>
-
-
-        <!--<ev3.ip>10.49.128.240</ev3.ip>-->
-        <!--<ev3.ip>10.49.128.240</ev3.ip>-->
-        <ev3.ip>192.168.2.188</ev3.ip>
+        <ev3.ip>10.49.134.223</ev3.ip>
         <project.classname>colorsorter.ElementSorter</project.classname>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
